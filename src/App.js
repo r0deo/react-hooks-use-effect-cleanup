@@ -4,6 +4,7 @@ import Clock from "./Clock";
 
 function App() {
   const [showClock, setShowClock] = useState(true);
+  console.log("doing by Ali")
 
   return (
     <div>
